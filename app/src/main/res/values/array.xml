@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="base64">
+        <item>DEFAULT</item>
+        <item>NO_WRAP</item>
+    </string-array>
+</resources>
